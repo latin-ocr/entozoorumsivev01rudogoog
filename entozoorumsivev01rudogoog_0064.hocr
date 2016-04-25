@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./entozoorumsivev01rudogoog_0064.png"; bbox 0 0 2430 4620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 212 1295 1011 1563">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 212 1295 1011 1563">
+     <span class='ocr_line' id='line_1_1' title="bbox 212 1295 1011 1563; baseline -0.008 -94"><span class='ocrx_word' id='word_1_1' title='bbox 212 1295 611 1495; x_wconf 14' lang='grc' dir='ltr'>’(Ρωομ</span> <span class='ocrx_word' id='word_1_2' title='bbox 687 1354 825 1563; x_wconf 61' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_3' title='bbox 969 1359 1011 1479; x_wconf 62' lang='lat'>‚⁹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 79 1583 1213 1875">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 88 1577 1213 1875">
+     <span class='ocr_line' id='line_1_2' title="bbox 473 1583 841 1658; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 436 1566 731 1679; x_wconf 66' lang='lat' dir='ltr'>&#39;PPPsm</span> <span class='ocrx_word' id='word_1_5' title='bbox 836 1599 841 1606; x_wconf 91' lang='lat'>·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 79 1714 1213 1875; baseline 0.001 -4.008"><span class='ocrx_word' id='word_1_6' title='bbox 79 1762 1055 1875; x_wconf 71' lang='lat' dir='ltr'>PNPManosPPmPnPM</span> <span class='ocrx_word' id='word_1_7' title='bbox 1209 1714 1213 1719; x_wconf 59' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1220 4620">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1220 4620">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 4620; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1220 4620; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
